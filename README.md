@@ -6,6 +6,13 @@ Travelling at Night (Demo) 的简体中文汉化补丁，由 **Reckoner Mob 汉�
 
 反馈 QQ 群：**815655398**
 
+## 文件内容
+
+| 文件 | 是什么 |
+|---|---|
+| `RecMob-TravellingAtNight-zhCN-<游戏版本>-<日期>.zip` | **汉化包本体**。 |
+| `TextEditor-RecMob-TravellingAtNight-zhCN-<日期>.zip` | **终刻墨构史专用夜游漫记文本自定义修改器**。需要先安装汉化包本体后才能使用。不会更新，我只是一块放这了，更新了会说。 |
+
 ---
 
 ## 安装
@@ -35,22 +42,6 @@ Travelling at Night (Demo) 的简体中文汉化补丁，由 **Reckoner Mob 汉�
 - Steam 的「验证游戏文件完整性」不会破坏本补丁。
 - 完全离线，不联网、不调用任何在线翻译接口。
 - 游戏内没有语言开关，装上即中文。
-
-## 游戏内快捷键
-
-| 按键 | 作用 |
-|---|---|
-| `ALT + R` | 重新载入翻译文件 |
-| `ALT + T` | 在译文与原文之间切换 |
-
-## 换字体
-
-包内自带霞鹜文楷。想换别的，把字体包放进游戏根目录，
-再编辑 `BepInEx\config\AutoTranslatorConfig.ini` 的这一行，改成该文件名，重启游戏：
-
-```ini
-FallbackFontTextMeshPro=lxgwwenkai_6000
-```
 
 ## 遇到问题
 
