@@ -1,0 +1,17 @@
+{
+ "game": "travelling",
+ "package": "夜游漫记 Demo 简体中文补丁",
+ "package_version": "v2026.10.09",
+ "built_for_game_version": "2026.9.n.86",
+ "published_at": "2026-10-09T05:09:42+00:00",
+ "notes": "更新线路换成免费的 GitHub 镜像，下载失败会提示 QQ 群和百度网盘；同步 5 条加载提示的新译文",
+ "manual_hint": "请到 QQ 群 815655398 或百度网盘 https://pan.baidu.com/s/1D6q_cTM8dgRdYSNepM7VBQ?pwd=ffoe（提取码 ffoe）下载最新完整包，直接覆盖安装即可。",
+ "win_file": "win/update-RecMob-TravellingAtNight-zhCN-n.86-2026.10.09.zip",
+ "win_url": "https://fastly.jsdelivr.net/gh/Cynanchum0109/TravellingatNight-zhcn-RecMob@update/travelling/win/update-RecMob-TravellingAtNight-zhCN-n.86-2026.10.09.zip",
+ "win_sha256": "DAE164D3909D07C232EA486CB4B02BB80A8DA2B89B5B7BDB605419908DC2EC23",
+ "win_size": 3308323,
+ "mac_file": "mac/macOS-update-RecMob-TravellingAtNight-zhCN-n.86-2026.10.09.zip",
+ "mac_url": "https://fastly.jsdelivr.net/gh/Cynanchum0109/TravellingatNight-zhcn-RecMob@update/travelling/mac/macOS-update-RecMob-TravellingAtNight-zhCN-n.86-2026.10.09.zip",
+ "mac_sha256": "FFDD32DD667F338EC490FFB21530FC7DC4BB25C2D27BB6BCA60FC882704B5CEC",
+ "mac_size": 3299347
+}
